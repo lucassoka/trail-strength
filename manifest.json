@@ -1,0 +1,10 @@
+{
+  "name":"Trail Strength 40+",
+  "short_name":"Trail Strength",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f4f1",
+  "theme_color":"#101114",
+  "lang":"pt-BR",
+  "description":"Treino de fortalecimento para trail running 40+ km."
+}
