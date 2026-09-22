@@ -1,9 +1,0 @@
-{
-  "name":"Trail Strength 40+",
-  "short_name":"Trail Strength",
-  "start_url":"./trail_strength_app_v3.html",
-  "display":"standalone",
-  "background_color":"#f5f5f2",
-  "theme_color":"#111111",
-  "lang":"pt-BR"
-}
