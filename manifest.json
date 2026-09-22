@@ -1,0 +1,9 @@
+{
+  "name": "Trail Strength 40+ V5",
+  "short_name": "Trail Strength",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f4f1",
+  "theme_color": "#101114",
+  "description": "Personal trail-running strength training PWA V5."
+}
